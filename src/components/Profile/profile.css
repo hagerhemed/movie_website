@@ -1,0 +1,9 @@
+.gray{
+    background-color: rgb(155, 155, 146);
+    padding-top: 5px;
+    margin-right: 10px;
+}
+.black{
+    background-color: rgba(0, 0, 0, 0.685);
+    padding: 5PX;
+}
